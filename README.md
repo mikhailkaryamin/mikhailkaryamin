@@ -14,8 +14,9 @@ let skills = {
     markup: [HTML],
     styling: [CSS, SASS, LESS],
   },
-  lib: [Redux],
+  stateManagement: [Redux],
   tests: [Jest, Enzyme],
+  graphicsEditor: [Photoshop, Figma, XD],
   tools : [Git, Bash, Webpack, Gulp, VS Code],
 }
 ```
