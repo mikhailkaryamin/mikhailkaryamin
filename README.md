@@ -8,7 +8,7 @@ I prefer to keep learning, continue challenging myself, and do interesting thing
 ## My Skills
 ```js
 let skills = {
-  language : [Javascript, Typescript],
+  language : [Javascript, Typescript, Kotlin],
   JSFramework : [React],
   layout: {
     markup: [HTML],
