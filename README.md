@@ -2,7 +2,7 @@
 
 I'm <B>[Karyamin Mikhail](https://htmlacademy.ru/profile/id959581)</B>, Frontend Developer from Russia. 
 
-I'm currently working petrochemical industry. My love is programming ❤️.
+I'm currently working front-end developer in Affiange. My love is programming ❤️.
 I prefer to keep learning, continue challenging myself, and do interesting things that matter.
 
 ## My Skills
