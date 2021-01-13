@@ -10,7 +10,7 @@ I like to learn, challenge myself to achieve goals.
 ```js
 let skills = {
   language : [Javascript, Typescript],
-  JSFramework : [React, React-native],
+  JSFramework : [React, React Native],
   layout: {
     markup: [HTML],
     styling: [CSS, SASS, LESS],
