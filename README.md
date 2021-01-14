@@ -1,6 +1,6 @@
 ## Hi everyone 👋 
 
-I'm <B>[Karyamin Mikhail](https://htmlacademy.ru/profile/id959581)</B>, Frontend Developer from Russia. 
+I'm <B>[Karyamin Mikhail](https://mikhailkaryamin.ru/)</B>, Frontend Developer from Russia. 
 
 I'm front-end developer in Affiange company. 
 My love is programming ❤️.
