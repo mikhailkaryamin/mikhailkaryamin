@@ -2,7 +2,7 @@
 
 I'm <B>[Karyamin Mikhail](https://mikhailkaryamin.ru/)</B>, Frontend Developer from Russia. 
 
-I'm front-end developer in Affiange company. 
+I'm front-end developer in uchi.ru company. 
 My love is programming ❤️.
 I like to learn, challenge myself to achieve goals.
 
