@@ -1,6 +1,6 @@
 ## Hi everyone 👋 
 
-I'm <B>[Karyamin Mikhail](https://mikhailkaryamin.ru/)</B>, Frontend Developer from Russia. 
+I'm <B>Karyamin Mikhail</B>, Frontend Developer from Russia. 
 
 I'm front-end developer in uchi.ru company. 
 My love is programming ❤️.
