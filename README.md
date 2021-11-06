@@ -1,23 +1,24 @@
 ## Hi everyone 👋 
 
-I'm <B>Karyamin Mikhail</B>, Frontend Developer from Russia. 
+I'm front-end developer in the uchi.ru company.
 
-I'm front-end developer in uchi.ru company. 
-My love is programming ❤️.
-I like to learn, challenge myself to achieve goals.
+
+1. I just love code ❤️.
+
+2. I love to study and help those who need it.
 
 ## My Skills
 ```js
 let skills = {
   language : [Javascript, Typescript],
-  JSFramework : [React, React Native],
+  JSFramework : [React],
   layout: {
     markup: [HTML],
     styling: [CSS, SASS, LESS],
   },
-  stateManagement: [Redux],
+  stateManagement: [Redux, MobX],
   tests: [Jest, Enzyme],
-  graphicsEditor: [Photoshop, Figma, XD],
-  tools : [Git, Bash, Webpack, Gulp, VS Code],
+  graphicsEditor: [Photoshop, Figma],
+  tools : [Git, Webpack, VS Code],
 }
 ```
