@@ -1,6 +1,6 @@
 ## Hi everyone 👋 
 
-I'm front-end department leader in the uchi.ru company.
+I'm tech lead of department in the uchi.ru company.
 
 
 1. I just love code ❤️.
